@@ -30,7 +30,7 @@ export default class App extends React.Component {
   render() {
     return (
       <WebView
-        source={{uri: 'https://jeromeetienne.github.io/AR.js/three.js/examples/mobile-performance.html'}}
+        source={{uri: 'http://jeromeetienne.github.io/AR.js/three.js/examples/mobile-performance.html'}}
         style={{marginTop: 20}}
       />
       /*<View style={styles.container}>
